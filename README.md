@@ -21,3 +21,7 @@ To view the Netflix clone locally, simply download or clone the repository and o
 ```bash
 git clone https://github.com/GurnishS/Netflix-clone/
 cd netflix-clone
+
+##Website Link
+Visit this netflix clone https://gurnishs.github.io/Netflix-clone
+Note:Please ignore the dangerous site warning (browser identifies it as phishing site)
