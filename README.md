@@ -14,6 +14,11 @@ This project is a static clone of the Netflix homepage, built using HTML and CSS
 - **CSS3**: Styling language used for designing the layout and appearance.
 - **Flexbox**: CSS layout model for designing responsive web pages.
 
+##Website Link
+
+Visit this netflix clone https://gurnishs.github.io/Netflix-clone
+Note:Please ignore the dangerous site warning (browser identifies it as phishing site)
+
 ## Getting Started
 
 To view the Netflix clone locally, simply download or clone the repository and open the `index.html` file in your web browser.
@@ -22,6 +27,3 @@ To view the Netflix clone locally, simply download or clone the repository and o
 git clone https://github.com/GurnishS/Netflix-clone/
 cd netflix-clone
 
-##Website Link
-Visit this netflix clone https://gurnishs.github.io/Netflix-clone
-Note:Please ignore the dangerous site warning (browser identifies it as phishing site)
